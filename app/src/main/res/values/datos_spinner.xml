@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datos_spinner">
+        <item>Seleccione tipo tarjeta</item>
+        <item>VISA Crédito</item>
+        <item>VISA Débito</item>
+        <item>MasterCard</item>
+        <item>AMEX</item>
+    </string-array>
+</resources>

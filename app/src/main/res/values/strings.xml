@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hasarCaja</string>
+    <string name="compra">Compra</string>
+    <string name="importe">Importe</string>
+    <string name="tarjeta">Número de tarjeta</string>
+    <string name="guardar">Guardar</string>
+    <string name="enviar">Enviar</string>
+    <string name="volver">Volver</string>
+</resources>
